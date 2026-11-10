@@ -21,10 +21,10 @@
 
 | Phím tắt | Tác vụ | Mô tả |
 |---|---|---|
-| `Alt + Z`   | **Bật/Tắt Dịch Phụ Đề** | Khởi động hoặc tạm dừng tiến trình OCR câu thoại vùng ROI |
-| `Alt + M`   | **Quét & Dịch Menu / HUD** | Chụp màn hình và dịch toàn bộ UI/Menu game (DirectML GPU) |
-| `Alt + C`   | **Đóng Dịch Menu** | Xóa toàn bộ hộp chữ dịch HUD trên màn hình |
-| `Alt + Q`   | **Thu nhỏ / Bong bóng** | Thu nhỏ bảng điều khiển thành Bong bóng Game Overlay (`FloatingBubble`) |
+| `Alt+Z`   | **Bật/Tắt Dịch Phụ Đề** | Khởi động hoặc tạm dừng tiến trình OCR câu thoại vùng ROI |
+| `Alt+M`   | **Quét & Dịch Menu / HUD** | Chụp màn hình và dịch toàn bộ UI/Menu game (DirectML GPU) |
+| `Alt+C`   | **Đóng Dịch Menu** | Xóa toàn bộ hộp chữ dịch HUD trên màn hình |
+| `Alt+Q`   | **Thu nhỏ / Bong bóng** | Thu nhỏ bảng điều khiển thành Bong bóng Game Overlay (`FloatingBubble`) |
 
 ---
 
